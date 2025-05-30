@@ -1,0 +1,14 @@
+{
+  "mattermost": {
+    "url": "",
+    "port": ,
+    "verify": true
+  },
+  "bot": {
+    "webhook_url": "",
+    "webhook_host_enabled": true,
+    "webhook_port": ,
+    "webhook_host": "",
+    "token": ""
+  }
+}
